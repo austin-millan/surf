@@ -615,6 +615,11 @@ func (bow *Browser) Body() string {
 	return body
 }
 
+// Text returns the page body as a text
+func (bow *Browser) Text() string {
+	return bow.state.Dom.Find("body").Text()
+}
+
 // Dom returns the inner *goquery.Selection.
 func (bow *Browser) Dom() *goquery.Selection {
 	return bow.state.Dom.First()

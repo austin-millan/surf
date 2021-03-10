@@ -2,7 +2,7 @@ package browser
 
 import (
 	"bytes"
-	"github.com/headzoo/ut"
+	"github.com/austin-millan/ut"
 	"net/url"
 	"testing"
 )

@@ -11,7 +11,7 @@ This document outlines the guidelines for contributing to the project.
 
 ## Issues
 
-The [issue tracker](https://github.com/headzoo/surf/issues) is
+The [issue tracker](https://github.com/austin-millan/surf/issues) is
 the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests)
 and submitting [pull requests](#pull-requests).
 
@@ -38,7 +38,7 @@ provide as much detail and context as possible.
 
 ## Pull Requests
 
-Code changes are made to the [`dev`](https://github.com/headzoo/surf/tree/dev) branch.
+Code changes are made to the [`dev`](https://github.com/austin-millan/surf/tree/dev) branch.
 Once a milestone has been reached the branch will be merged in with `master`, and a new
 version tag created. **Do not** make your changes against the `master` branch, or they
 will more than likely be ignored.

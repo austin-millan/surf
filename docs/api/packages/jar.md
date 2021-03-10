@@ -1,6 +1,6 @@
 # jar
 --
-    import "github.com/headzoo/surf/jar"
+    import "github.com/austin-millan/surf/jar"
 
 Package jar has containers for storing data, such as bookmarks and cookies.
 

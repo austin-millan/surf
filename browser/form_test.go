@@ -15,8 +15,8 @@ import (
 
 	"io/ioutil"
 
-	"github.com/headzoo/surf/jar"
-	"github.com/headzoo/ut"
+	"github.com/austin-millan/surf/jar"
+	"github.com/austin-millan/ut"
 )
 
 func TestBrowserForm(t *testing.T) {
